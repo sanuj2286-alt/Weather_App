@@ -1,4 +1,4 @@
-🌦️ Weather App
+#Weather App
 
 A simple and responsive Weather App built using HTML, CSS, and JavaScript. This application allows users to search for any city and get real-time weather information using a weather API.
 
@@ -10,6 +10,7 @@ Display humidity level
 Show wind speed
 Responsive design for different devices
 Clean and user-friendly interface
+
 🛠️ Technologies Used
 HTML5
 CSS3
